@@ -1,0 +1,8 @@
+streamlit
+google-genai
+reportlab
+pillow
+requests
+streamlit-paste-button
+arabic-reshaper
+python-bidi
